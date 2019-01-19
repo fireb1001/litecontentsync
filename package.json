@@ -1,0 +1,27 @@
+{
+  "name": "litecontentsync",
+  "version": "1.0.2",
+  "description": "Sync with litecontent",
+  "main": "sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync": "node sync"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireb1001/litesync.git"
+  },
+  "keywords": [
+    "sync"
+  ],
+  "author": "Abdelmomen Bauomy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fireb1001/litesync/issues"
+  },
+  "homepage": "https://github.com/fireb1001/litesync#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "firebase": "^5.8.0"
+  }
+}
