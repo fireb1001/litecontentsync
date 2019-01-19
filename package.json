@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fireb1001/litesync.git"
+    "url": "git+https://github.com/fireb1001/litecontentsync.git"
   },
   "keywords": [
     "sync"
@@ -17,9 +17,9 @@
   "author": "Abdelmomen Bauomy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fireb1001/litesync/issues"
+    "url": "https://github.com/fireb1001/litecontentsync.git/issues"
   },
-  "homepage": "https://github.com/fireb1001/litesync#readme",
+  "homepage": "https://github.com/fireb1001/litecontentsync.git",
   "dependencies": {
     "axios": "^0.18.0",
     "firebase": "^5.8.0"
