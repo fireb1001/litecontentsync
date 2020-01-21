@@ -1,0 +1,18 @@
+DefaultContentLanguage = "ar"
+baseURL = "https://alexandria24.me/"
+copyright = ""
+googleAnalytics = ""
+languageCode = "ar"
+paginate = 7
+theme = "hello-friend"
+title = "دليل تجار الاسكندرية"
+
+[params]
+    custom_css = ["css/custom.css"]
+    description = "الشراء والبيع بالجملة والتجزئة في مدينة الاسكندرية في مصر"
+    
+[menu]
+  [[menu.main]]
+    identifier = "image"
+    name = "الصور"
+    url = "/image"
